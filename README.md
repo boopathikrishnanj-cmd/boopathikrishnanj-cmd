@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F72A&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Python+Developer;Data+Science+Enthusiast;AI+Learner)](https://git.io/typing-svg)
 
-<h1 align="center">
-<img src="https://img.shields.io/badge/Boopathi%20J-0A66C2?style=for-the-badge&logo=github&logoColor=8B5CF6">
-</h1>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=boopathikrishnanj-cmd&color=blue)
@@ -20,7 +18,9 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Boopathi J</h1>
+<h1 align="center">Hi 👋, I'm BoopathiKrishnan J</h1>
+<img src="https://img.shields.io/badge/Boopathi%20J-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+</h1>
 
 <h3 align="center">
 Machine Learning Enthusiast | Python Developer | CSE Student
