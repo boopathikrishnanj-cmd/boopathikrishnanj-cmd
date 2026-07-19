@@ -19,8 +19,7 @@
 
 
 <h1 align="center">Hi 👋, I'm BoopathiKrishnan J</h1>
-<img src="https://img.shields.io/badge/Boopathi%20J-0A66C2?style=for-the-badge&logo=github&logoColor=white">
-</h1>
+
 
 <h3 align="center">
 Machine Learning Enthusiast | Python Developer | CSE Student
