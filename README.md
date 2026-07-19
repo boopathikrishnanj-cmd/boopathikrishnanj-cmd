@@ -1,3 +1,18 @@
+![Profile Views](https://komarev.com/ghpvc/?username=boopathikrishnanj-cmd&color=blue)
+
+![GitHub followers](https://img.shields.io/github/followers/boopathikrishnanj-cmd?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/boopathikrishnanj-cmd?style=social)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Boopathi krishnan)
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,vscode" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Boopathi J</h1>
 
 <h3 align="center">
