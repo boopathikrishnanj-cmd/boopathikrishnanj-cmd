@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F72A&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Python+Developer;Data+Science+Enthusiast;AI+Learner)](https://git.io/typing-svg)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=boopathikrishnanj-cmd&color=blue)
 
 ![GitHub followers](https://img.shields.io/github/followers/boopathikrishnanj-cmd?style=social)
