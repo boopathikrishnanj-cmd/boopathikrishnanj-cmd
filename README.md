@@ -77,28 +77,28 @@ Become a Machine Learning Engineer and build AI solutions that solve real-world 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=boopathikrishnanj-cmd&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boopathikrishnanj-cmd&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=boopathikrishnanj-cmd&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/boopathikrishnan-cmd
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+www.linkedin.com/in/boopathi-krishnan-b8781327b
 
 Email:
-yourmail@example.com
+boopathikeishnanj@gmail.com
 
 ---
 
