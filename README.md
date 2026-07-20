@@ -9,7 +9,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/boopathikrishnanj-cmd?style=social)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Boopathi krishnan)
+[!LinkedIn(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Boopathi krishnan)
 
 ## 🛠️ Tech Stack
 
